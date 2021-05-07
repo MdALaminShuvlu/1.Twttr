@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Automation Suite" >
+
+    <test name="GoogleTest">
+
+        <classes>
+
+            <class name="UI_Automation_And_UI_Result"/>
+            <class name="API_Verify"/>
+            <class name="UI_Au_lastPart"/>
+
+        </classes>
+
+    </test>
+
+</suite>
